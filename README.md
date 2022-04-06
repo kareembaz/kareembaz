@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Kareem 👋🤍
 
-> Software Engineer
-> Mobile developer ( Flutter | Android )
+# Software Engineer
+# Mobile developer ( Flutter | Android )
 ______________________________________________
 
 ### Contact with me on
 
-> personal email : kareembaz15@gmail.com
+# personal email : kareembaz15@gmail.com
 
 
 
