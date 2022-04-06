@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Kareem 👋🤍
+
+> Software Engineer
+> Mobile developer ( Flutter | Android )
+______________________________________________
+
+### Contact with me on
+
+> personal email : kareembaz15@gmail.com
+
+
 
 <!--
 **kareembaz/kareembaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
