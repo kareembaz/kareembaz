@@ -1,4 +1,4 @@
-</h2> Hi there 👋 I'm Kareem 👋🤍</h2>
+<h2> Hi there 👋 I'm Kareem 👋🤍 </h2>
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
@@ -8,7 +8,7 @@
 ----
 
 
-### Contact with me on
+<h2> Contact with me on</h2>
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
 
@@ -17,7 +17,7 @@
 
 ______________________________________________
 
-### Languages and Tools
+<h2> Languages and Tools</h2>
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
